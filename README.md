@@ -1,4 +1,4 @@
-# cifar10 Image Classification
+# CIFAR10 Image Classification
 
 ## Table of Contents
 1. [Project Overview](#project-overview)
