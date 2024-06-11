@@ -56,8 +56,8 @@ The primary evaluation metrics for this project are:
 
 ## Results
 After training the final model for 20 epochs, the following results were achieved on the test set:
-Average Loss: 0.5832
-Accuracy: 80.46%
+- Average Loss: 0.5832
+- Accuracy: 80.46%
 
 ## Challenges and Improvements
 Challenges faced during the project included:
